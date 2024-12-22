@@ -55,21 +55,21 @@ A responsive Task Tracker application built with **React.js** and **Tailwind CSS
 4. **`TaskItem.js`**: Checklist and trash icons for task management.
 
 ---
-# Example Usage
+## Example Usage
 
-# Adding a Task
+### Adding a Task
 
 Enter a task in the input field.
 
 Click the "Add" button to add it to the task list.
 
-# Marking a Task as Complete
+### Marking a Task as Complete
 
 Click the green checklist icon to mark a task as complete.
 
 Completed tasks are visually indicated by a green background on the checklist button.
 
-# Deleting a Task
+### Deleting a Task
 
 Click the trash icon to remove the task from the list.
 
