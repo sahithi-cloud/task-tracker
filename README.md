@@ -1,7 +1,7 @@
 # Task Tracker Application
 
 ## Description
-A responsive Task Tracker application built with **React.js** and **Tailwind CSS**. It helps users manage their daily tasks with features inspired by the "My Day" UI. The code is designed to emphasize organization, reuse of components, and responsive design.
+A responsive Task Tracker application built with **React.js** and **Tailwind CSS**. It helps users manage their daily tasks with features inspired by the "Microsoft To Do" UI. The code is designed to emphasize organization, reuse of components, and responsive design.
 
 ---
 
